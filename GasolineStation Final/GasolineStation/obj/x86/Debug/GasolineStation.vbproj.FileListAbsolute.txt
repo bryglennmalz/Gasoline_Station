@@ -1,0 +1,42 @@
+D:\GasolineStation\GasolineStation\bin\Debug\GasolineStation.exe
+D:\GasolineStation\GasolineStation\bin\Debug\GasolineStation.pdb
+D:\GasolineStation\GasolineStation\bin\Debug\GasolineStation.xml
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmAddEditProducts.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmAdmin.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmGasolineMain.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmGasolineRefill.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmLogin.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmLogs.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmPayment.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmProducts.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.Resources.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.vbproj.GenerateResource.Cache
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.exe
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.xml
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.pdb
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmAddEditAdmins.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmAvailable.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmLiterOrAmount.resources
+D:\GasolineStation\GasolineStation\obj\x86\Debug\GasolineStation.frmCashOnHand.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.exe
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.xml
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.pdb
+D:\GasolineStation Final\GasolineStation\bin\Debug\GasolineStation.exe
+D:\GasolineStation Final\GasolineStation\bin\Debug\GasolineStation.pdb
+D:\GasolineStation Final\GasolineStation\bin\Debug\GasolineStation.xml
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmAddEditAdmins.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmAddEditProducts.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmAdmin.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmAvailable.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmCashOnHand.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmGasolineMain.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmGasolineRefill.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmLiterOrAmount.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmLogin.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmLogs.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmPayment.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmProducts.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.Resources.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.vbproj.GenerateResource.Cache
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmGasoline.resources
+D:\GasolineStation Final\GasolineStation\obj\x86\Debug\GasolineStation.frmCancel.resources
